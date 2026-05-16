@@ -8,7 +8,7 @@
 Welcome to my GitHub! I'm Era, a student still on her journey of discovery, unfortunately I don't have time to make projects I'll be proud of and I'm still not dead-set on what I plan to do with my life, so you won't find much here; atleast not yet!
 
 ### ✮⋆˙ Slightly relevant achievements
-- I've been drafted to Math Olympics Competitions three year in a row (we're hoping for a fourth)
+- I've been drafted to Math Olympics Competitions three years in a row (we're hoping for a fourth)
 - Surviving this year's AP CSP Exam on May 14th 2026 after attending ZERO classes throughout the year 
 - Watching all of JOJO'S without worrying about watching P4 (I don't wanna watch it)
 
