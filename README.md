@@ -5,7 +5,6 @@
 
 <br>
 <br>
-## ✮⋆˙ About me!
 Welcome to my GitHub! I'm Era, a student still on her journey of discovery, unfortunately I don't have time to make projects I'll be proud of and I'm still not dead-set on what I plan to do with my life, so you won't find much here; atleast not yet!
 
 ### ✮⋆˙ Slightly relevant achievements
