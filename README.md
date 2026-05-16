@@ -30,6 +30,7 @@ Welcome to my GitHub! I'm Era, a student still on her journey of discovery, unfo
 - I like drawing. I draw once in a blue moon though.  
 - I really like watching movies, TV shows and anime (if you couldn't tell I really like JJBA)
 - I like games like Guilty Gear, KOF, Skullgirls and Minecraft
+- My longest music playlist has 12,011 songs (CocacolasticEra on Spotify with my two playlists "My Marmalade from 2009" and "The second batch of jam")
 
 <br>
 <br>
