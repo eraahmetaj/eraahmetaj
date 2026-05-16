@@ -1,16 +1,72 @@
-## Under construction...
+## First Test...
 
-<!--
-**eraahmetaj/eraahmetaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="500" height="281" alt="JJBA - Jotaru" src="https://github.com/user-attachments/assets/60791181-41bd-4b82-89ce-f122dad77ed3" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+Welcome to my GitHub! I'm Era, a student still on her journey of discovery, unfortunately I don't have time to make projects I'll be proud of and I'm still not dead-set on what I plan to do with my life, so you won't find much here; atleast not yet!
+
+### ✮⋆˙ Slightly relevant achievements
+- I've been drafted to Math Olympics Competitions three year in a row (we're hoping for a fourth)
+- Surviving this year's AP CSP Exam on May 14th 2026 after attending ZERO classes throughout the year 
+- Watching all of JOJO'S without worrying about watching P4 (I don't wanna watch it)
+
+### ✮⋆˙ I'm currently learning
+- ReactJS
+- Java (soon...)
+
+### ✮⋆˙ I'm working on
+- Making it to summer..
+- Finishing my obnoxiously long watchlist
+- Saving to buy a Nintendo Switch 2
+
+### ✮⋆˙ Goals
+- Make any kind of website over the summer (I really need to practice)
+- Survive AP Physics and AP CS A next year (simultaneously)  
+- Get my artistry motivation back
+
+### ✮⋆˙ Fun??? facts
+- I like drawing. I draw once in a blue moon though.  
+- I really like watching movies, TV shows and anime (if you couldn't tell I really like JJBA)
+- I like games like Guilty Gear, KOF, Skullgirls and Minecraft
+
+<br>
+<br>
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣛⣛⣛⣛⣛⠻⠿⡿⠿⢛⣭⣛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢿⠟⠛⢻⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢋⣾⣿⡿⣿⡟⠻⠿⡿⣿⠆⣈⢉⣙⣻⠓⠀⣁⣐⠿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠆⣤⣶⣶⣦⡀⠈⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠘⠛⠓⠋⣤⠀⠔⠂⠛⠐⠀⠀⠈⠓⠚⣥⠄⠀⠉⠉⠈ ⠛⢋⣿⣿⣿⣿⠫⠀⣼⣿⣿⣿⣿⣿⡀⣌⢿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠠⡀⢊⠐⡀⠀⡄⠀⢠⢠⠘⠀⠀⠀⢉⠖⠂⠀ ⠐⢾⣿⣿⣿⣿⠀⠠⣭⣅⠉⠛⢿⣿⢠⠙⢰⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠙⠀⠘⠀⠀⡙⠂⠀⠀⠀⠀⠉⣐⠒⠂⡀⠀⠀ ⢥⡿⣿⣿⣿⣆⠀⢀⣌⠁⠀⠠⠁⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠛⠀⠐⠳⠀⠀ ⠈⣡⣿⣿⣿⣿⣦⡘⣿⣤⠀⡀⠀⠄⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⢀⣉⣤⡉⣶⣶⣶⣤⠬⠀⠈⠁⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡝⢎⠉⣛⠠⠈⠛⣦⢹⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠂⠀⠀⣀⣴⣶⡻⢏⠋⣴⣿⠿⠋⠁⠴⠶⣄⠀⣀⠀⠀ ⣉⣭⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠑⠂⠠⢀⠂⣿⢹⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⢀⡰⠂⠀⠀⠙⠛⠛⠛⠇⠀⡛⣁⠀⠄⠉⢤⡀⠿⠀⢀⡄⠀ ⢰⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⡀⣤⣠⣼⡄⠖⡀⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡇⢘⢿⣿⣿⣿⣿⣿⣿⣿⠋⣠⠈⠀⠰⠄⠀⢘⡅⣥⠀⠐⡀⣽⣿⣯⡄⢼⣿⡿⣧⣿⡇⡎⢬⣀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⢇⢻⣿⣿⡇⡀⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡇⢸⠊⠻⣿⣿⣿⣿⣿⣿⣶⣤⣭⣴⣤⣤⡆⠀⢀⣲⣾⣷⢸⡫⢶⢿⡿⣿⣻⣿⣟⣯⣧⢑⠀ ⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣨⡄⠀⠀⠠⠁⠂⣙⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠸⠀⣎⢪⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠐⠀⠘⣿⣿⣻⣯⡉⠘⠆⣠⣿⡿⣷⣿⣻⣿⢃⠀⠈ ⣛⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣴⠉⠋⠀⠀⠀⠀⡀⠘⣷⢹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠀⣀⣝⠪⡙⢿⣿⣿⣿⣿⣿⣿⣿⣶⣧⠀⢹⣿⣻⣽⣿⠓⠈⢩⣙⡻⢿⣽⡿⡽⢠⠀ ⠰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢠⠉⢸⠷⠀⢀⠀⢠⣿⠀⢺⡏⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⢸⣿⣟⠛⣦⣅⡉⠛⠿⠿⢿⣿⣿⣿⣯⡀⠀⠹⣿⢿⣤⠬⢉⣍⡉⣹⣿⣟⡟⣰⣯⠀⣠⣿⣿⣿⣿⣿⣿⣿⠿⠿⠟⠁⠀⣇⢀⣾⠋⠀⣼⣿⠠⠸⢃⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠿⣿⡀⢙⡿⣿⣷⣶⣤⣤⣀⣀⣉⣉⡁⠀⣶⣌⠙⣿⣦⢻⣿⢿⣿⣯⠏⢸⣿⢿⠀⢉⣉⣉⣁⣀⣀⣠⣤⣤⣴⣶⡖⡀⠈⢸⡇⠀⠀⠛⠁⠀⢀⣾⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣷⠠⠀⠀⣘⠃⢹⡿⣟⣳⣿⣻⣿⢿⡿⣟⣿⢿⠄⢸⣿⡄⠈⠻⠷⠶⣤⢞⣁⡀⣿⡿⡟⠠⣼⣿⣻⢿⡿⣿⣿⣻⣿⣻⣯⠇⣿⢀⣾⠁⠀⣀⣠⣤⣶⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠹⣶⣿⠃⣼⡇⢿⣿⣽⡿⣿⠛⣡⠞⠊⠘⣿⣷⠀⢀⠀⣿⣿⣆⣿⢠⣿⣿⠇⡄⠀⠹⢿⣻⣿⣟⣷⣟⣿⣽⠋⢸⣿⡿⠇⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⠀⢻⡍⠀⢸⣿⢸⣿⡷⠿⠉⣀⣤⣦⣀⡀⢻⣽⣧⠻⣡⣿⣟⡯⣉⢸⣿⣽⠀⣿⡐⣶⣄⠈⣁⠈⣽⣿⡽⣯⣷⣾⢿⣅⠀⢠⣿⣿⣿⣿⣿⡿⠋⢁⣽
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢈⠃⠀⠘⣿⠹⡷⢂⣴⣾⣿⡿⣿⣇⢠⣾⣿⢿⣦⠉⠻⡏⠀⢃⣾⣿⣻⡇⢿⣿⣾⣽⣿⣄⡈⠿⠯⠳⣿⣿⣾⡿⠃⢀⣾⣿⣿⣿⠟⠁⠀⣠⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢩⣟⣃⠀⣄⠀⠀⠈⢁⣴⣿⢿⣯⣷⣿⠿⢃⣾⡟⣯⣿⣿⡀⠁⠀⠀⣼⣿⣓⣿⣿⡘⣿⣷⡿⣯⣿⢿⣶⠀⢆⣻⠗⠋⠁⢀⣾⡿⠿⠋⢁⠀⢀⣼⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣼⣏⠀⠀⡿⠀⠀⠀⠜⢿⣯⣿⡛⠹⢾⣵⣿⣿⣯⢹⣿⣾⣷⡈⠀⢠⣿⡟⣶⡿⣯⣷⣜⠿⣽⣿⣻⣽⣿⡇⠈⠛⣂⠀⠀⠈⢀⣀⣤⠾⠁⣠⣿⣿⣿⣿⣿
+⣻⠿⣿⡿⢿⣿⠛⠿⢛⡁⠈⠙⠀⣰⡀⠀⠀⠸⣷⣦⣄⣉⠽⠿⠿⣻⣽⡾⠏⣻⣷⠀⢿⣷⠀⣿⡟⢠⡙⣿⡿⣽⡿⠟⠦⡍⣉⣩⣼⣶⣿⣇⢣⣘⢿⣿⣟⢻⠏⠀⠐⢿⣿⣿⡿⠟⢉
+⣿⣗⠈⠉⠐⠲⣦⣄⣀⠻⣦⡀⠀⠘⠁⠀⠀⠀⢻⣟⣿⣿⣿⣿⣷⣶⣶⣴⣤⣷⣶⣾⣮⠻⠠⠟⣡⣤⣶⣤⣬⣴⣶⣾⣿⣿⢿⣿⣻⣽⣮⣾⠀⣿⣷⣾⢿⠋⠀⠀⢠⣬⣭⠄⠀⣰⣾
+⣿⣿⣷⣟⠿⣦⣤⡻⣿⣧⠈⠃⠀⠀⡚⢤⠀⠀⣆⠻⢿⣾⣟⣾⣿⣽⣯⣿⢯⣿⣽⡷⣿⡂⠀⣄⣿⣿⣯⣿⣟⣿⣯⣿⣾⢿⣿⣻⠿⠙⠁⠀⣸⣿⣯⠟⠁⠀⣴⡀⣾⠁⠊⠀⠀⠀⣠
+⣿⣿⣿⣿⣆⠈⢛⣻⠌⢧⠀⠀⠀⠀⠉⠂⠠⠀⠸⡈⠀⠈⢉⡛⠚⠻⠽⠿⠻⠯⠟⠿⠍⠓⠘⠙⠛⠷⣿⣻⣾⢿⣽⡷⠿⠻⠗⠛⠉⢐⡀⣰⣿⡿⠍⠀⠀⠀⠟⢣⣿⠐⣠⡆⢹⣾⣿
+⣿⡟⠿⢿⣿⣆⠈⠛⠓⢸⣦⣀⣠⡄⠀⠀⢀⣾⠆⢣⢰⣶⣾⣿⣷⣶⣤⣜⡻⡟⣿⣿⠋⠀⠀⢠⣿⣿⠟⠁⠠⠘⣓⠠⠄⠂⣀⡴⣞⠏⣰⡿⠋⠁⠀⠀⠀⢠⡞⣡⡀⠈⡛⢀⣾⣿⣿
+⣿⣿⣄⠰⣤⣌⡀⠀⠀⠠⣿⡿⡇⠻⡇⠀⣸⣿⠀⠘⠼⣿⣯⣿⣽⡿⣯⣿⣿⣦⡟⡿⠟⠀⣤⣾⡿⠉⠀⠀⠀⣠⣄⡉⠛⠿⢙⡁⠀⠀⠋⠀⢁⣤⣀⡴⠀⢘⣼⣿⣿⣼⣷⣿⣿⣿⣿
+⣿⣿⣿⣷⡈⠙⠛⢿⣷⣶⣦⡙⠋⣤⡀⠘⣿⢋⣤⠀⢸⣿⣽⣯⣿⣟⣿⣷⡿⣽⣷⠶⠆⠒⠾⠋⠀⡄⠀⠀⠀⠙⣠⠴⠂⠀⠀⠐⠀⠀⠀⣠⠞⢹⠟⠡⠾⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣷⣮⣿⣿⣿⣿⣄⣿⣷⡀⠁⠈⠛⣴⣾⡿⣽⣯⣷⣿⢿⡚⠉⠁⡶⠛⠲⢤⣌⣁⣷⡀⠀⠀⠂⣀⣀⢀⣀⡤⠞⠀⠀⠋⣠⠁⠀⢀⣠⡴⠶⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⡇⠀⠀⠀⠙⠿⠷⠿⠛⠛⠙⠚⠷⠂⢀⡁⢀⡀⠈⠙⣻⣋⡅⠀⠀⢀⡙⠛⢊⡉⠁⠀⠀⠀⠀⠋⠀⠀⠘⠉⠁⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣀⡱⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣦⣘⣏⣠⣤⣛⣩⣴⣿⣷⣤⣍⠉⠉⠀⠠⠏⠀⠀⠀⠀⣤⣤⠴⠀⠈⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⢀⣀⣤⣤⣶⡾⠿⠛⣛⠿⠿⠟⠿⢿⣿⣿⠿⠛⠉⣡⣯⠭⢁⣤⣶⣤⣤⣾⣠⠀⠀⣾⣿⠀⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣯⠙⠻⢿⣷⣅⣀⣛⡿⠗⡶⠴⢲⣮⣙⣁⣀⣈⡙⠛⢠⣾⣿⣿⣿⣿⣿⡿⠀⣰⣿⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣶⣾⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+
